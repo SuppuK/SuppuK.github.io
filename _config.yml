@@ -294,7 +294,7 @@ defaults:
       share: true
       related: true
 
-  #_pags
+  #_pages
   - scope:
     path: ""
     type: pages
