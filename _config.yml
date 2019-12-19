@@ -83,7 +83,6 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-github: "SuppuK"
 twitter:
   username               :
 facebook:
@@ -113,6 +112,7 @@ author:
   bio              : "Data Science Portfolio."
   location         : "India"
   email            :
+  github: "SuppuK"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
