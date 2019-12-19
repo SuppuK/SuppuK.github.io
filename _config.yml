@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Suprabhat"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "images/suppu.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio."
   location         : "India"
   email            :
