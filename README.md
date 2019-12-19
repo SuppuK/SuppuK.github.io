@@ -1,2 +1,2 @@
 # SuppuK.github.io
-Data Scinc Portfolio
+Data Science Portfolio
