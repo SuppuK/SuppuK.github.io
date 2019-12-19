@@ -83,8 +83,7 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-github:
-  username               : "SuppuK"
+github: "SuppuK"
 twitter:
   username               :
 facebook:
