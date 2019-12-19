@@ -295,7 +295,7 @@ defaults:
       related: true
 
   #_pags
-  -scope:
+  - scope:
     path: ""
     type: pages
     values: 
