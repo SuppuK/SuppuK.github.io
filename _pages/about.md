@@ -5,4 +5,4 @@ header:
   image:"/images/bom.jpg"
 ---
 
-I am just starting.
+Starting into Data Science.
